@@ -420,7 +420,8 @@ A curated list of blockchain, cryptocurrency and fintech resources for software 
 * [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib)
 * [Cryptocoin](https://github.com/cryptocoinjs/cryptocoin)
 * [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs)
-* [bcoin](https://github.com/bcoin-org/bcoin) Javascript bitcoin library for node.js and browsers 
+* [bcoin](https://github.com/bcoin-org/bcoin) Javascript bitcoin library for node.js and browsers
+* [Tatum](https://github.com/tatumio/tatum-js)  JavaScript library that streamlines the development of blockchain applications
 
 ### PHP Libraries
 * [PHP-OP_RETURN](https://github.com/coinspark/php-OP_RETURN)
